@@ -8,9 +8,9 @@
 
 | | |
 |-|:-:|
-| Birthday | 19-October
+| Birthday | 19-October |
 |Favourite color| Grey |
-|Favourite food | Biryani |
+| Favourite food | Biryani |
 |Pineapple on pizza | <ul><li>[ ] Yes</li><li>[x] No</li></ul> |
 
 ### Hobbies
@@ -30,4 +30,4 @@ During my first week of arrival in Belgium, I went to attend an info session in 
  ### TL;DR
 Google translate can save you from potential embarrassment.
 
- << [previous](https://github.com/ezgihendrickx/markdown-challenge/blob/master/README.md) || Muhammad Fawad Rafique || [next](https://github.com/degenge/markdown-challenge/blob/master/README.md) >>
+ :arrow_backward: [Previous - EZGI](https://github.com/ezgihendrickx/markdown-challenge/blob/master/README.md) || MUHAMMAD FAWAD RAFIQUE || [Next - GERRIT](https://github.com/degenge/markdown-challenge/blob/master/README.md) :arrow_forward:
